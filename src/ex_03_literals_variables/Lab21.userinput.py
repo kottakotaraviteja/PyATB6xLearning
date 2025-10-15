@@ -3,5 +3,8 @@
 
 name = input("What is your name? ")
 
+name1=input("How are you")
+
 print(name)
 print(type(name))
+print(name1)

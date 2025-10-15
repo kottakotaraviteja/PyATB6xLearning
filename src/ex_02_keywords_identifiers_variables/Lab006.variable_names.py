@@ -3,7 +3,7 @@
 
 abc123="Ravi"
 
-a =123
+_a =123
 
 b=23.5
 
@@ -11,7 +11,7 @@ c=True
 
 d='A'
 print(type(abc123))
-print(type(a))
+print(type(_a))
 print(type(b))
 print(type(c))
 print(type(d))
