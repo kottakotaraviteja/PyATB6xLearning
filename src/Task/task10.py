@@ -1,14 +1,24 @@
-num =int(input("enter num:"))
+#Factrioal number
 
-fact=1
+num = int(input("Enter a number for which factorial you want"))
+
+factorial = 1
 
 if num<0:
-    print("Please enter a positive number")
-elif num==0:
-    print("Factrioal of 0 is 1")
+    print("Invalid input")
+
+if num == 0:
+    print("Fact= ", factorial)
 else:
     for i in range(1,num+1):
-        fact=fact*i
-    print("Fact of num:",fact)
+
+        factorial=factorial*i
+
+print("Fact of: ",factorial)
+
+
+
+
+
 
 
