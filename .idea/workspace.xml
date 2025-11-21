@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e537aa0-6da2-418f-b76b-fb740844935b" name="Changes" comment="Nov 1 code">
+    <list default="true" id="7e537aa0-6da2-418f-b76b-fb740844935b" name="Changes" comment="Nov 9 code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_dict/Lab109_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_dict/Lab109_dict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +78,38 @@
     "Python.Lab108_dict.executor": "Run",
     "Python.Lab109_dict.executor": "Run",
     "Python.Lab11.IQ.BODMAS.executor": "Run",
+    "Python.Lab110.dictConcept.executor": "Run",
+    "Python.Lab111.Dict_Frequency_char_String.executor": "Run",
+    "Python.Lab112.Dict.executor": "Run",
+    "Python.Lab113.maxDict.executor": "Run",
+    "Python.Lab114.IQ.Dict.executor": "Run",
+    "Python.Lab115.IQ.Dict.executor": "Run",
+    "Python.Lab115.IQ.dict1.executor": "Run",
+    "Python.Lab116.Vowels.executor": "Run",
+    "Python.Lab119.ClassDog2.executor": "Run",
+    "Python.Lab119.ClassDog3.executor": "Run",
     "Python.Lab12.Multiple.variable.executor": "Run",
+    "Python.Lab120.classDog4.executor": "Run",
+    "Python.Lab121.User_Input_class.executor": "Run",
+    "Python.Lab122.Calculator.executor": "Run",
+    "Python.Lab123.Calculator2way.executor": "Run",
+    "Python.Lab125.oops.executor": "Run",
+    "Python.Lab127.Encaplasation.executor": "Run",
+    "Python.Lab128.Encp.executor": "Run",
     "Python.Lab13.Multiple.prints.executor": "Run",
+    "Python.Lab130.Enc.executor": "Run",
+    "Python.Lab131.Enc.executor": "Run",
+    "Python.Lab132.Enc.executor": "Run",
+    "Python.Lab133.Inhertiance.executor": "Run",
+    "Python.Lab134.multipleinhertiance.executor": "Run",
+    "Python.Lab135.executor": "Run",
+    "Python.Lab136.ML.executor": "Run",
+    "Python.Lab137.HI.executor": "Run",
+    "Python.Lab138.HybridInhertiance.executor": "Run",
+    "Python.Lab139.RealAutomation.executor": "Run",
     "Python.Lab14.Maths.functions.executor": "Run",
+    "Python.Lab140.executor": "Run",
+    "Python.Lab141.MO.executor": "Run",
     "Python.Lab15.IQ.executor": "Run",
     "Python.Lab16.literals.executor": "Run",
     "Python.Lab18.multicomment.executor": "Run",
@@ -169,6 +199,7 @@
     "Python.Lab99.tuple.executor": "Run",
     "Python.LabForLoopInReal.executor": "Run",
     "Python.LabMatch.002.executor": "Run",
+    "Python.LabPublic_private_protected.executor": "Run",
     "Python.LabQ1.executor": "Run",
     "Python.LabQ2.executor": "Run",
     "Python.LabQ3.Py.executor": "Run",
@@ -183,6 +214,7 @@
     "Python.Task14.executor": "Run",
     "Python.Task15.executor": "Run",
     "Python.Task16.executor": "Run",
+    "Python.Task20.executor": "Run",
     "Python.Task_Fizz_Buzz.executor": "Run",
     "Python.task02.executor": "Run",
     "Python.task03.executor": "Run",
@@ -194,6 +226,8 @@
     "Python.task09.executor": "Run",
     "Python.task10.executor": "Run",
     "Python.task17.executor": "Run",
+    "Python.task19.executor": "Run",
+    "Python.task21.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -212,9 +246,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kottakota.ravi.teja\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\For_Loop" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kottakota.ravi.teja\PycharmProjects\PyATB6xLearning\src\ex_18_oops\05_Inhertiance\SingleInhertiance" />
+      <recent name="C:\Users\kottakota.ravi.teja\PycharmProjects\PyATB6xLearning\src\ex_18_oops\01\classobject" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Lab109_dict">
-    <configuration name="Lab03.Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab141.MO">
+    <configuration name="Lab137.HI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,11 +261,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HeirchalInhertiance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filter/Lab03.Filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HeirchalInhertiance/Lab137.HI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab106_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab138.HybridInhertiance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HybridInhertiance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_dict/Lab106_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HybridInhertiance/Lab138.HybridInhertiance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab107_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab139.RealAutomation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,11 +305,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HybridInhertiance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_dict/Lab107_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HybridInhertiance/Lab139.RealAutomation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab108_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab140" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,11 +327,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/06_Polymorphism/Method_OverRiding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_dict/Lab108_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/06_Polymorphism/Method_OverRiding/Lab140.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,7 +340,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab109_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab141.MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,11 +349,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/06_Polymorphism/Method_OverRiding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_dict/Lab109_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/06_Polymorphism/Method_OverRiding/Lab141.MO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab109_dict" />
-        <item itemvalue="Python.Lab108_dict" />
-        <item itemvalue="Python.Lab107_dict" />
-        <item itemvalue="Python.Lab106_dict" />
-        <item itemvalue="Python.Lab03.Filter" />
+        <item itemvalue="Python.Lab141.MO" />
+        <item itemvalue="Python.Lab140" />
+        <item itemvalue="Python.Lab139.RealAutomation" />
+        <item itemvalue="Python.Lab138.HybridInhertiance" />
+        <item itemvalue="Python.Lab137.HI" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762179168135</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Nov 9 code">
+      <option name="closed" value="true" />
+      <created>1762705130188</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762705130188</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +551,8 @@
     <MESSAGE value="oct 29 code" />
     <MESSAGE value="oct 30 code" />
     <MESSAGE value="Nov 1 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nov 1 code" />
+    <MESSAGE value="Nov 9 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nov 9 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
