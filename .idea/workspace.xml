@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e537aa0-6da2-418f-b76b-fb740844935b" name="Changes" comment="Nov 9 code">
+    <list default="true" id="7e537aa0-6da2-418f-b76b-fb740844935b" name="Changes" comment="Nov 20 code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_dict/Lab109_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_dict/Lab109_dict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,21 @@
     "Python.Lab14.Maths.functions.executor": "Run",
     "Python.Lab140.executor": "Run",
     "Python.Lab141.MO.executor": "Run",
+    "Python.Lab142.Mol.executor": "Run",
+    "Python.Lab143.Mol.all.executor": "Run",
+    "Python.Lab143.Mol.executor": "Run",
+    "Python.Lab144.Mol.PY.executor": "Run",
+    "Python.Lab145.AB.all.executor": "Run",
+    "Python.Lab146.ABC.executor": "Run",
+    "Python.Lab147.RealAbstarction.executor": "Run",
+    "Python.Lab148.Real.executor": "Run",
+    "Python.Lab149.Real.Abcc.executor": "Run",
     "Python.Lab15.IQ.executor": "Run",
+    "Python.Lab150.Static.executor": "Run",
+    "Python.Lab151.StaticMethod.executor": "Run",
+    "Python.Lab152.Static.All.executor": "Run",
+    "Python.Lab153.Static and Non static.executor": "Run",
+    "Python.Lab154.RealStatic.executor": "Run",
     "Python.Lab16.literals.executor": "Run",
     "Python.Lab18.multicomment.executor": "Run",
     "Python.Lab19.datatypes.executor": "Run",
@@ -251,8 +264,8 @@
       <recent name="C:\Users\kottakota.ravi.teja\PycharmProjects\PyATB6xLearning\src\ex_18_oops\01\classobject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab141.MO">
-    <configuration name="Lab137.HI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab154.RealStatic">
+    <configuration name="Lab150.Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,11 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HeirchalInhertiance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HeirchalInhertiance/Lab137.HI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab150.Static.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab138.HybridInhertiance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab151.StaticMethod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,11 +296,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HybridInhertiance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HybridInhertiance/Lab138.HybridInhertiance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab151.StaticMethod.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab139.RealAutomation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab152.Static.All" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,11 +318,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HybridInhertiance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/05_Inhertiance/HybridInhertiance/Lab139.RealAutomation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab152.Static.All.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab140" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab153.Static and Non static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,11 +340,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/06_Polymorphism/Method_OverRiding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/06_Polymorphism/Method_OverRiding/Lab140.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab153.Static and Non static.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,7 +353,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab141.MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab154.RealStatic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -349,11 +362,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/06_Polymorphism/Method_OverRiding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/06_Polymorphism/Method_OverRiding/Lab141.MO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab154.RealStatic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab141.MO" />
-        <item itemvalue="Python.Lab140" />
-        <item itemvalue="Python.Lab139.RealAutomation" />
-        <item itemvalue="Python.Lab138.HybridInhertiance" />
-        <item itemvalue="Python.Lab137.HI" />
+        <item itemvalue="Python.Lab154.RealStatic" />
+        <item itemvalue="Python.Lab153.Static and Non static" />
+        <item itemvalue="Python.Lab152.Static.All" />
+        <item itemvalue="Python.Lab151.StaticMethod" />
+        <item itemvalue="Python.Lab150.Static" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762705130188</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Nov 20 code">
+      <option name="closed" value="true" />
+      <created>1763721907627</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1763721907627</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +573,8 @@
     <MESSAGE value="oct 30 code" />
     <MESSAGE value="Nov 1 code" />
     <MESSAGE value="Nov 9 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nov 9 code" />
+    <MESSAGE value="Nov 20 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nov 20 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
