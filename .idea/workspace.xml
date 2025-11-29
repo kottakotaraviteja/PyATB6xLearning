@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e537aa0-6da2-418f-b76b-fb740844935b" name="Changes" comment="Nov 20 code">
+    <list default="true" id="7e537aa0-6da2-418f-b76b-fb740844935b" name="Changes" comment="Nov 22 code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +124,24 @@
     "Python.Lab152.Static.All.executor": "Run",
     "Python.Lab153.Static and Non static.executor": "Run",
     "Python.Lab154.RealStatic.executor": "Run",
+    "Python.Lab155_Exceptions.executor": "Run",
+    "Python.Lab156_Zerodiverror.executor": "Run",
+    "Python.Lab157_Typeerror.executor": "Run",
+    "Python.Lab158_ValueError.executor": "Run",
+    "Python.Lab159_IndexError.executor": "Run",
     "Python.Lab16.literals.executor": "Run",
+    "Python.Lab160_SyntaxError.executor": "Run",
+    "Python.Lab161.Program.executor": "Run",
+    "Python.Lab161.program_fix.executor": "Run",
+    "Python.Lab162.program_fix.executor": "Run",
+    "Python.Lab163.Program_fix.executor": "Run",
+    "Python.Lab164.Program_fix_finally.executor": "Run",
+    "Python.Lab165.program_fix_except_else_finally.executor": "Run",
+    "Python.Lab166.own.executor": "Run",
+    "Python.Lab167.Custom_Exception.executor": "Run",
+    "Python.Lab168.Real_API_Testing.executor": "Run",
+    "Python.Lab169.Real_Selenium.executor": "Run",
+    "Python.Lab170.File_Not_Found.executor": "Run",
     "Python.Lab18.multicomment.executor": "Run",
     "Python.Lab19.datatypes.executor": "Run",
     "Python.Lab20.builtin.function.executor": "Run",
@@ -264,8 +281,8 @@
       <recent name="C:\Users\kottakota.ravi.teja\PycharmProjects\PyATB6xLearning\src\ex_18_oops\01\classobject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab154.RealStatic">
-    <configuration name="Lab150.Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab170.File_Not_Found">
+    <configuration name="Lab166.own" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,11 +291,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab150.Static.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab166.own.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab151.StaticMethod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab167.Custom_Exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,11 +313,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab151.StaticMethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab167.Custom_Exception.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab152.Static.All" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab168.Real_API_Testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,11 +335,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab152.Static.All.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab168.Real_API_Testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,7 +348,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab153.Static and Non static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab169.Real_Selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -340,11 +357,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab153.Static and Non static.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab169.Real_Selenium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,7 +370,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab154.RealStatic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab170.File_Not_Found" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -362,11 +379,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_oops/08_Static" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19_Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_oops/08_Static/Lab154.RealStatic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_19_Exceptions/Lab170.File_Not_Found.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,11 +394,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab154.RealStatic" />
-        <item itemvalue="Python.Lab153.Static and Non static" />
-        <item itemvalue="Python.Lab152.Static.All" />
-        <item itemvalue="Python.Lab151.StaticMethod" />
-        <item itemvalue="Python.Lab150.Static" />
+        <item itemvalue="Python.Lab170.File_Not_Found" />
+        <item itemvalue="Python.Lab169.Real_Selenium" />
+        <item itemvalue="Python.Lab168.Real_API_Testing" />
+        <item itemvalue="Python.Lab167.Custom_Exception" />
+        <item itemvalue="Python.Lab166.own" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763721907627</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Nov 22 code">
+      <option name="closed" value="true" />
+      <created>1763899992227</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1763899992227</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,7 +599,8 @@
     <MESSAGE value="Nov 1 code" />
     <MESSAGE value="Nov 9 code" />
     <MESSAGE value="Nov 20 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nov 20 code" />
+    <MESSAGE value="Nov 22 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nov 22 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
